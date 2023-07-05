@@ -1,0 +1,200 @@
+{
+    "agents":[
+        {
+            "id": 1,
+            "name": "Brimstone",
+            "img": "/assets/images/agents/brimstone.png"
+        },
+        {
+            "id": 2,
+            "name": "Viper",
+            "img": ""
+        },
+        {
+            "id": 3,
+            "name": "Omen",
+            "img": ""
+        },
+        {
+            "id": 4,
+            "name": "Cypher",
+            "img": ""
+        },
+        {
+            "id": 5,
+            "name": "Sova",
+            "img": ""
+        },
+        {
+            "id": 6,
+            "name": "Sage",
+            "img": ""
+        },
+        {
+            "id": 7,
+            "name": "Phoenix",
+            "img": ""
+        },
+        {
+            "id": 8,
+            "name": "Jett",
+            "img": ""
+        },
+        {
+            "id": 9,
+            "name": "Raze",
+            "img": ""
+        },
+        {
+            "id": 10,
+            "name": "Breach",
+            "img": ""
+        },
+        {
+            "id": 11,
+            "name": "Reyna",
+            "img": ""
+        },
+        {
+            "id": 12,
+            "name": "Killjoy",
+            "img": ""
+        },
+        {
+            "id": 13,
+            "name": "Skye",
+            "img": ""
+        },
+        {
+            "id": 14,
+            "name": "Yoru",
+            "img": ""
+        },
+        {
+            "id": 15,
+            "name": "Astra",
+            "img": ""
+        },
+        {
+            "id": 16,
+            "name": "KAY/O",
+            "img": ""
+        },
+        {
+            "id": 17,
+            "name": "Chamber",
+            "img": ""
+        },
+        {
+            "id": 18,
+            "name": "Neon",
+            "img": ""
+        },
+        {
+            "id": 19,
+            "name": "Fade",
+            "img": ""
+        },
+        {
+            "id": 20,
+            "name": "Harbor",
+            "img": ""
+        },{
+            "id": 21,
+            "name": "Gekko",
+            "img": ""
+        },
+        {
+            "id": 22,
+            "name": "Deadlock",
+            "img": ""
+        }
+    ],
+    "guns":[
+        { 
+            "id": 1,
+            "name": "Stinger",
+            "img": ""
+        },
+        { 
+            "id": 2,
+            "name": "Spectre",
+            "img": ""
+        },
+        { 
+            "id": 3,
+            "name": "Bucky",
+            "img": ""
+        },
+        { 
+            "id": 4,
+            "name": "Judge",
+            "img": ""
+        },
+        { 
+            "id": 5,
+            "name": "Bulldog",
+            "img": ""
+        },
+        { 
+            "id": 6,
+            "name": "Guardian",
+            "img": ""
+        },
+        { 
+            "id": 7,
+            "name": "Phantom",
+            "img": ""
+        },
+        { 
+            "id": 8,
+            "name": "Vandal",
+            "img": ""
+        },
+        { 
+            "id": 9,
+            "name": "Marshal",
+            "img": ""
+        },
+        { 
+            "id": 10,
+            "name": "Operator",
+            "img": ""
+        },
+        { 
+            "id": 11,
+            "name": "Ares",
+            "img": ""
+        },
+        { 
+            "id": 12,
+            "name": "Odin",
+            "img": ""
+        },
+        { 
+            "id": 13,
+            "name": "Classic",
+            "img": ""
+        },
+        { 
+            "id": 14,
+            "name": "Shorty",
+            "img": ""
+        },
+        { 
+            "id": 15,
+            "name": "Frenzy",
+            "img": ""
+        },
+        { 
+            "id": 16,
+            "name": "Ghost",
+            "img": ""
+        },
+        { 
+            "id": 17,
+            "name": "Sheriff",
+            "img": ""
+        }
+    ]
+}
